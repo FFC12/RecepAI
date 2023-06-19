@@ -76,4 +76,4 @@ def record(noise_reduction=False):
         reduced_noise = nr.reduce_noise(y=data, sr=rate, n_jobs=3)
 
         # write audio to file
-        wavfile.write("temp.wave", rate, reduced_noise)
+        wavfile.write("temp.wav", rate, reduced_noise)
