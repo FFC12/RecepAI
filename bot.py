@@ -235,15 +235,3 @@ class Bot:
                 f.write("Answer:" + value + '\n')
 
         self.driver.close()
-
-
-
-
-
-
-
-
-
-
-
-
