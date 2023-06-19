@@ -1,0 +1,7 @@
+selenium
+undetected_chromedriver
+pyaudio
+sounddevice
+scipy
+noisereduce
+whisper
